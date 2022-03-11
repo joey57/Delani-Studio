@@ -28,6 +28,25 @@ html{
   width: 70px;
   height: 70px;
 }
+#mouse-click{
+  padding-top: 22px;
+  margin-top: 5%;
+}
+#mouse-click{
+    animation: bounce 2s infinite;
+}
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-55px);
+  }
+  60% {
+    transform: translateY(-45px);
+  }
+}
+
 .about-us{
   text-align: center;
   padding-bottom: 30px;
@@ -193,6 +212,10 @@ footer p{
   padding-top: 50%;
   font-family: 'Delius Swash Caps', cursive;
 }
+#overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8:hover{
+  opacity: 5;
+}
+
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     width: 100%;
