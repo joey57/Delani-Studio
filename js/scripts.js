@@ -28,8 +28,9 @@ $(document).ready(function(){
     $("#product-image").slideDown('1500');
   });
 });
+
 $(document).ready(function(){
-  $("#work1").hoover(function(){
+  $("#work1").mouseover(function(){
     $("overlay").show();
     }).mouseout(function(){
       $("overlay").hide();
