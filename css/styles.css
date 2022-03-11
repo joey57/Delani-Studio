@@ -8,3 +8,16 @@
   padding-top: 30%;
   font-family: 'Gabriela',serif;
 }
+.landing h1{
+  padding: 2px;
+  margin: 5px;
+}
+.landing p{
+  padding: 2px;
+}
+#logo{
+  margin-top: 12px;
+  margin-bottom: 24px;
+  width: 70px;
+  height: 70px;
+}
