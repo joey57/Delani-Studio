@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&display=swap');
 html{
   scroll-behavior: smooth;
 }
@@ -115,10 +116,11 @@ html{
 }
 .contact{
   background-image: url('/assets/backgrounds/c_image.jpg');
-  background-position: center;
+  background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
+  
 }
 .title{
   padding: 6px;
@@ -139,7 +141,6 @@ input[type=text],input[type=email],#comment{
 
 .form-control::-webkit-input-placeholder { 
   color: white; 
-  align-items: center;
 }
 #MERGE1{
   width: 30%;
@@ -149,7 +150,6 @@ input[type=text],input[type=email],#comment{
 #MERGE0{
   width: 30%;
   margin-left: 20%;
-  align-items: center;
 }
 #comment{
   margin-left: 20%;
@@ -160,6 +160,7 @@ button{
   padding-bottom: 30px;
   margin-bottom: 20px;
 }
+
 footer{
   text-align: center;
   padding-top: 30px;
