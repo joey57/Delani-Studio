@@ -93,3 +93,20 @@
 #development-image p{
   text-transform: uppercase;
 }
+#portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+.col-md-3 img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.portfolio{
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 5%;
+  font-family: 'Gabriela',serif;
+}
