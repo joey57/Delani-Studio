@@ -112,7 +112,7 @@
 }
 .contact{
   background-image: url('/assets/backgrounds/c_image.jpg');
-  background-position: center center;
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -140,13 +140,13 @@ input[type=text],input[type=email],#comment{
 }
 #MERGE1{
   width: 30%;
-  margin-left: 18%;
+  margin-left: 20%;
   margin-right: 30px;
 }
 #MERGE0{
   width: 30%;
-  margin-left: 18%;
-  margin-right: 18%;
+  margin-left: 20%;
+  align-items: center;
 }
 #comment{
   margin-left: 20%;
@@ -156,4 +156,12 @@ button{
   margin-left: 20%;
   padding-bottom: 30px;
   margin-bottom: 20px;
+}
+footer{
+  text-align: center;
+  padding-top: 30px;
+  font-family: 'Copse', serif;
+}
+footer p{
+  margin-top: 10px;
 }
