@@ -104,13 +104,34 @@ html{
 #design-image p{
   text-transform: uppercase;
 }
+#design p{
+  text-align-last: center;
+}
+#design h2{
+  text-align: center;
+}
 #development-image{
   text-align: center;
 }
 #development-image p{
   text-transform: uppercase;
 }
+#development p{
+  text-align-last: center;
+}
+#development h2{
+  text-align: center;
+}
 #product-image{
+  text-align: center;
+}
+#producet-image p{
+  text-transform: uppercase;
+}
+#product p{
+  text-align-last: center;
+}
+#product h2{
   text-align: center;
 }
 #development-image p{
