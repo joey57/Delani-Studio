@@ -4,7 +4,7 @@ Joyce Njoroge
 ## Description
 This is a web application for an organization called Delani Studio that showcases their services, what they do and portfolio section to section that shows some of their work. It includes a form that enables users to reach out to Delani Studio.
 ## Preview
-[PREVIEW](/assets/screenshot.png)
+[../assets/screenshot.png](/assets/screenshot.png)
 
 ## Installation
 This a website its not available for download and can only be accessed online.For now ensure the link is correct.
