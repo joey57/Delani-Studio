@@ -30,11 +30,11 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $("#work1").mouseover(function(){
+  $("#work1").hover(function(){
     $("overlay").show();
-    }).mouseout(function(){
+    }),function(){
       $("overlay").hide();
-  });
+  };
 });
 $(document).ready(function(){
   $("#work2").mouseover(function(){
