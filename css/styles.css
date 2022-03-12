@@ -33,7 +33,7 @@ html{
   padding-top: 22px;
   margin-top: 5%;
 }
-#mouse-click{
+/* #mouse-click{
     animation: bounce 2s infinite;
 }
 @keyframes bounce {
@@ -46,7 +46,7 @@ html{
   60% {
     transform: translateY(-45px);
   }
-}
+} */
 
 .about-us{
   text-align: center;
