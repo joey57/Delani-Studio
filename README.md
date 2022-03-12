@@ -22,8 +22,8 @@ If you have any question, email me at[njororgejoey@gmail.com]
 mailchimp API doesnot function as expected.
 
 ### License
-MIT LICENSE
-Copyright (c) 2022 joey57
+* MIT LICENSE
+* Copyright (c) 2022 joey57
 
 
 
